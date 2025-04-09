@@ -2,7 +2,6 @@
 - 👀 I’m interested in improving my Web Development skills 
 - 🌱 I’m currently learning JavaScript, React.js and Tailwind
 - 💞️ I’m looking to collaborate on innovative Frontend projects
-- 📫 How to reach me - reach me on boss.maker17@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ codeveloping on:
   * an ecommerce website
